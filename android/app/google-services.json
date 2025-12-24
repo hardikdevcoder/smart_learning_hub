@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "82084326764",
+    "project_id": "smart-learning-hub-b4da8",
+    "storage_bucket": "smart-learning-hub-b4da8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82084326764:android:3999567b552ef034b95749",
+        "android_client_info": {
+          "package_name": "com.smart_learning_hub.smart_learning_h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82084326764-f018v284l6i89gjlp7jt0c6re339huil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsMVbxqv3xOL9622U1ZtWc310Cw7goxsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82084326764-f018v284l6i89gjlp7jt0c6re339huil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "82084326764-mdn6oqdigr0fdj030f2ec6faqrup0e1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartlearninghub.smartLearningHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
